@@ -16,12 +16,12 @@
   <div class="header">
     <div class="header_resize">
       <div class="logo">
-        <h1><a href="">BSong <small>Một dự án khóa JAVA tại VinaEnter Edu</small></a></h1>
+        <h1><a href="">ASong <small>“Now, as you graduate to begin anew, I wish that for you: Stay hungry, stay foolish.”</small></a></h1>
       </div>
       <div class="menu_nav">
         <ul>
-          <li class="active"><a href=""><span>Trang chủ</span></a>
-          <li><a href=""><span>Liên hệ</span></a></li>
+          <li class="active"><a href=""><span>Home</span></a>
+          <li><a href=""><span>Contact</span></a></li>
         </ul>
       </div>
       <div class="clr"></div>
